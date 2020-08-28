@@ -36,6 +36,8 @@ Found 115 vehicles
 Found 115 vehicles
 ```
 
+It will run forever unless you `ctrl-c` out or it crashes.
+
 You'll see a file now in the current folder `vehicle_readings.db`. This is the sqlite database. You can run
 queries and perform stats on it. Example:
 
